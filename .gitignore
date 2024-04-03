@@ -1,0 +1,10 @@
+*.pth
+runs/
+Part_Data/
+Part_Data/train.tar
+VAE/datasets/legs_test.tar
+VAE/datasets/surfaces_train.tar
+VAE/datasets/legs_train.tar
+
+VAE/N90.pth
+VAE/pretrainedsurface.pth
