@@ -3,7 +3,13 @@
 ## Overview
 
 This project implements a Conditional Variational Autoencoder (CVAE) for reconstructing 3D shapes from a single 2D image. The approach leverages a generative voxel-based method that enables the generation of diverse and detailed 3D reconstructions, even in the presence of occlusions.
+
+
+
 <img width="685" alt="Screenshot 2024-07-08 at 12 14 02 AM" src="https://github.com/2397922B/VoxelCVAE/assets/97679718/af37b836-e53f-45a6-bcdc-83caa42294c6">
+
+
+![gif-ezgif com-video-to-gif-converter](https://github.com/2397922B/VoxelCVAE/assets/97679718/307c0874-a18c-4285-9fa3-e48e5166a38d)
 
 ## Installation
 
